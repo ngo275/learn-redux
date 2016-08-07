@@ -1,12 +1,14 @@
 # Learn Redux
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux implementation.
 
 ## Running
 
-First `npm install` to grab all the necessary dependencies. 
+First `git clone https://github.com/ngo275/learn-redux.git` and remove node_modules.
 
-Then run `npm start` and open <localhost:7770> in your browser.
+Then `npm install` to grab all the necessary dependencies. The node_modules will be set up automatically. 
+
+Run `npm start` and open <localhost:7770> in your browser.
 
 ## Production Build
 
